@@ -1,6 +1,6 @@
 # MuseGAN
 
-This project was completely taken from the Musegan Team.
+This project was completely taken from the MuseGAN Project. It has been cited as well. Thank you.
 
 [MuseGAN](https://salu133445.github.io/musegan/) is a project on music
 generation. In a nutshell, the aim is to generate polyphonic music of multiple
